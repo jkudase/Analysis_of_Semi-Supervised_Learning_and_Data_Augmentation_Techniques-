@@ -2,7 +2,7 @@
 
 Implemented a semi-supervised learning algorithms using convolutional neural networks. 
 
-Experiment with the following semi-supervised learning algorithms, Entropy Minimization and MixUp. Conducted experiemnts with the CIFAR-10 dataset.
+Experiment with the following semi-supervised learning algorithms, Entropy Minimization and MixUp. Conducted experiments with the CIFAR-10 dataset.
 
 The following are the experiments that were conducted.
 1) Implement a deep convolutional neural network using only the labeled training data and report its performance on the test data. (Baseline) 
