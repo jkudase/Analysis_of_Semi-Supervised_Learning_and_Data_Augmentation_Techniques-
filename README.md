@@ -11,4 +11,5 @@ The following are the experiments that were conducted.
 4) Applied all of the above semi-supervised learning techniques on the training data and reported the performance on the test data. 
 5) Conducted experiments by varying the number of labeled and unlabeled samples.
 
-Please refer to the project report for complete understanding of the project, experiments and Conclusions.
+Please refer to the project report for complete understanding of the project, experiments and Conclusions.<br>
+Project Report: https://github.com/jkudase/Analysis_of_Semi-Supervised_Learning_and_Data_Augmentation_Techniques-/blob/master/Project_Report.pdf
